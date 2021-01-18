@@ -1,0 +1,72 @@
+body {
+    background: linear-gradient(white, yellow, white, orange, white, yellow, white, gold);
+    color:black;
+}
+
+.number_play {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+
+.number_play img {
+    width: 100%;
+}
+
+.number_play hr {
+    width: 230px;
+}
+
+.number_play h5,
+.number_play p {
+   text-align:center;
+    color:black;
+    font-size:20px;
+    font-family:cursive;
+}
+
+.heading p {
+    font-size: 50px;
+    padding-bottom: 50px;
+    font-family: sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+
+.questions p
+{
+    font-size:20px;
+    font-family:serif;
+    color:blue;
+    padding-left: 100px;
+  
+}
+
+.answers {
+    font-size: 20px;
+    padding: 6px 22px;
+    padding-left:100px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.answers i {
+    float: center;
+}
+
+.answers span {
+    color: black;
+}
+.showanswer p 
+{
+    padding-left:100px;
+    color:green;
+  font-family:cursive;
+}
+
+
+class="glyphicon glyphicon-info-sign"
